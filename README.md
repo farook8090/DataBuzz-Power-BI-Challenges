@@ -41,11 +41,14 @@ Looking forward to participating in more real-world analytics challenges and con
 <img src="5. May/Farook.png" alt="PowerBI May Challenge Top Performer" width="500">
 
 #PowerBI Report
+<div style="display:flex;justify-content:center;">
+  
+<img src="5. May/report images/Accounting_firm_Audit_Compliance_Report_page-0001.jpg" alt="Report_Page_1" width="200">
+<img src="5. May/report images/Accounting_firm_Audit_Compliance_Report_page-0002.jpg" alt="Report_Page_2" width="200">
+<img src="5. May/report images/Accounting_firm_Audit_Compliance_Report_page-0003.jpg" alt="Report_Page_3" width="200">
+<img src="5. May/report images/Accounting_firm_Audit_Compliance_Report_page-0004.jpg" alt="Report_Page_1" width="200">
 
-<img src="5. May/report images/Accounting_firm_Audit_Compliance_Report_page-0001.jpg" alt="Report_Page_1" width="100">
-<img src="5. May/report images/Accounting_firm_Audit_Compliance_Report_page-0002.jpg" alt="Report_Page_2" width="100">
-<img src="5. May/report images/Accounting_firm_Audit_Compliance_Report_page-0003.jpg" alt="Report_Page_3" width="100">
-<img src="5. May/report images/Accounting_firm_Audit_Compliance_Report_page-0004.jpg" alt="Report_Page_1" width="100">
+</div>
 
 🚀 Completed the UK E-Commerce Conversion & Sales Analytics Dashboard as part of the DataBuzz Power BI Challenge #6.
 
@@ -74,10 +77,14 @@ https://github.com/farook8090/DataBuzz-Power-BI-Challenges/tree/main/6.%20June
 
 #PowerBI Report
 
-<img src="6. June/report images/E-Commerce Conversion & Sales Analytics_page-0001.jpg" alt="Report_Page_1" width="100">
-<img src="6. June/report images/E-Commerce Conversion & Sales Analytics_page-0002.jpg" alt="Report_Page_1" width="100">
-<img src="6. June/report images/E-Commerce Conversion & Sales Analytics_page-0003.jpg" alt="Report_Page_1" width="100">
-<img src="6. June/report images/E-Commerce Conversion & Sales Analytics_page-0004.jpg" alt="Report_Page_1" width="100">
+<div style="display:flex;justify-content:center;">
+  
+<img src="6. June/report images/E-Commerce Conversion & Sales Analytics_page-0001.jpg" alt="Report_Page_1" width="200">
+<img src="6. June/report images/E-Commerce Conversion & Sales Analytics_page-0002.jpg" alt="Report_Page_1" width="200">
+<img src="6. June/report images/E-Commerce Conversion & Sales Analytics_page-0003.jpg" alt="Report_Page_1" width="200">
+<img src="6. June/report images/E-Commerce Conversion & Sales Analytics_page-0004.jpg" alt="Report_Page_1" width="200">
+
+</div>
 
 Every dashboard tells a story. The goal is not just to visualize data, but to turn it into actionable business decisions.
 
