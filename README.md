@@ -39,6 +39,7 @@ Looking forward to participating in more real-world analytics challenges and con
 
 
 <img src="5. May/Farook.png" alt="PowerBI May Challenge Top Performer" width="500">
+[Click here to view or download the Report PDF](5. May/Accounting_firm_Audit_Compliance_Report.pdf)
 
 
 🚀 Completed the UK E-Commerce Conversion & Sales Analytics Dashboard as part of the DataBuzz Power BI Challenge #6.
